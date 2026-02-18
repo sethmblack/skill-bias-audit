@@ -3,8 +3,9 @@ name: bias-audit
 description: Systematically check a decision or situation for operating psychological biases using Munger's 25 tendencies framework.
 license: MIT
 metadata:
+  version: 1.0.3474
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - bias-audit
 - transformation
